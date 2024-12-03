@@ -412,6 +412,6 @@ map kitty_mod+f5 load_config_file
 
 
 # BEGIN_KITTY_THEME
-# Catppuccin-Mocha
+# Adwaita darker
 include current-theme.conf
 # END_KITTY_THEME
